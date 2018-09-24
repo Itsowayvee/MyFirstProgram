@@ -15,4 +15,5 @@ class MyFirstProgram {
     }
 }
 
-const newInstance = new MyFirstProgram("a", "b", "c");
+const newInstance = new MyFirstProgram("a", "b", "c")
+
